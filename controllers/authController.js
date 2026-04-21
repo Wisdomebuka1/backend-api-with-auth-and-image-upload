@@ -184,8 +184,7 @@ const changePassword = async (req, res)=>{
    }
 }
 
-//wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://example.com
-//https://preview.themeforest.net/item/electro-electronics-ecommerce-html-template
+
 
 module.exports = {
   registerUser,
